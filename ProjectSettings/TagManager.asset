@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Banana
+  - Detection
+  - Answer
+  - WrongAnswer
+  - Water
+  - Gift
+  - Strawberry
+  - Watermelon
+  - Railing
+  - Ground
+  - Enemy
+  - Answer1
+  - Eq1
+  - Eq2
+  - ThreePtPlatform
+  - Apple
+  - Eq3
+  - Platform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Collectibles
+  - Ground
+  - CamBoundaries
+  - Equation
+  - Gift
+  - Enemy
+  - Eq2
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3488966809
+    locked: 0
+  - name: Middleground
+    uniqueID: 829235219
+    locked: 0
+  - name: Foreground
+    uniqueID: 2854494505
+    locked: 0

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedSceneGuid-0:
+      value: 56020d5203040a09595c5f7440720e4446164872742e7368297d1e63e6e4316e
+      flags: 0
+    RecentlyUsedSceneGuid-1:
+      value: 5704525703050a5d580b582012770e44444e4b73297b77337c7a1860e1e33039
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 02010c5755500802555d0d7b41710f44464e49727d7f71367f7b4b67bbb5603b
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 5754025604045d080b5d0e2048775e444e4f4c28752b73677f2a1f30bae5326f
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 50540d500354505a585d5f74417a0c44424e497f2f2e7168757c1963e1e26c6d
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5300055e04065958090b0f7512260a4447161b792a2b76627e7e4b36bab9613a
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 515250075c0c595e5f5a5e71122159444e4e4a2f7a7d7f602f284d66b4b76661
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 560452035656080f5a5c542148710f4446154f2e2a2b73682b2d4b64b1b46c3d
+      flags: 0
+    RecentlyUsedSceneGuid-8:
+      value: 0506000350025a0b0b5f5f2046705e4447154a2b297170677a711c35b7e23668
+      flags: 0
+    RecentlyUsedSceneGuid-9:
+      value: 025757530600590a5e5d0824427b0d44124f4a28787970367f7d4935e3e66c6b
+      flags: 0
+    UnityRemoteDevice:
+      value: 0a7e6748245b10
+      flags: 0
+    UnityRemoteResolution:
+      value: 2d5e460b0459
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_DesiredImportWorkerCount: 1
+  m_StandbyImportWorkerCount: 1
+  m_IdleImportWorkerShutdownDelay: 60000
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
+  m_ArtifactGarbageCollection: 1
